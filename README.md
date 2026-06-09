@@ -13,7 +13,7 @@ Adds a page to spotify where you can properly look at an album art. The extensio
 
 ### Why?
 
-For a while, I was tired of how Spotify shows the album art in a small corner at best, even when resizing, you can't get it as big as, say, YouTube Music. So, I asked gemini to help me make an add-on that would show a huge cover. After visiting a few record stores, I got the idea to make it look a bit like a vinyl disc cover. The code is somewhat sloppy and there are a couple of bugs, but if enough people want it, I'll polish it up and publish it. For now, it's good enough for my needs.
+For a while, I was tired of how Spotify shows the album art in a small corner at best, even when resizing, you can't get it as big as, say, YouTube Music. So, I asked gemini to help me make an add-on that would show a huge cover. After visiting a few record stores, I got the idea to make it look a bit like a vinyl disc cover The code is rather sloppy but seems to be good enough
 
 ---
 ### Installation
