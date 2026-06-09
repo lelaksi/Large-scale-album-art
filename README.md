@@ -1,4 +1,4 @@
-# Large-scale-album-art
+# Large-scale album art
 ### Giving album art the love it needs on spotify
 
 ![Preview](LSAA-preview.gif)
