@@ -3,11 +3,15 @@
 
 ![Preview](LSAA-preview.gif)
 
+![Preview1](preview1.png)
+
+![Preview2](preview1.png)
+
 ---
 
 ### What?
 
-Adds a page to spotify where you can properly look at an album art. The extension scans multiple sources to find the highest-resolution picture available, so that when zooming in the detail is there, and displays the album/single info on the back. You can also toggle various realism settings like dust or plastic warp. The album and artist names on the back are clickable if you want to jump straight to their profiles
+Adds a page to spotify where you can properly look at the album art. The extension scans multiple sources to find the highest-resolution picture available, so that when zooming in the detail is there, and displays the album/single info on the back. You can also toggle various realism settings like dust or plastic warp. The album and artist names on the back are clickable if you want to jump straight to their profiles
 
 ---
 
