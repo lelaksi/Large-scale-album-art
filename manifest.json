@@ -1,6 +1,6 @@
 [
   {
-    "name": "Large-scale-album-art",
+    "name": "Large-scale album art",
     "description": "Giving album art the love it deserves.",
     "preview": "LSAA-preview.gif",
     "main": "album-art-panel.js",
